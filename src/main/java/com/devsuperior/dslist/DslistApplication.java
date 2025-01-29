@@ -8,6 +8,7 @@ public class DslistApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DslistApplication.class, args);
+		System.out.println(">>>>Aplicação rodando!!!!<<<<");
 	}
 
 }
